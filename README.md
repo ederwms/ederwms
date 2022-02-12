@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Éder Sousa and I'm a software developer. I'm from Brazil and currently working as front-end developer at +A Educação. You can find me on <a href="www.linkedin.com/in/ederwms"><img align="start" alt="LinkedIn" height="25" width="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg"></a>.
+My name is Éder Sousa and I'm a software developer. I'm from Brazil and currently working as front-end developer at +A Educação. You can find me on <a href="https://linkedin.com/in/ederwms"><img align="start" alt="LinkedIn" height="25" width="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg"></a>.
 
 <div align="start">
   <a href="https://github.com/ederwms">
