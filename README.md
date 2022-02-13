@@ -1,6 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Éder Sousa and I'm a software developer. I'm from Brazil and currently working as front-end developer at +A Educação. You can find me on <a href="https://linkedin.com/in/ederwms"><img align="start" alt="LinkedIn" height="25" width="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg"></a>.
+Me chamo Éder Sousa e sou um desenvolvedor de software. Atualmente atuando como desenvolvedor front-end na empresa +A Educação. Você pode me encontrar em <a href="https://linkedin.com/in/ederwms"><img align="start" alt="LinkedIn" height="25" width="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg"></a>.
 
 <div align="start">
   <a href="https://github.com/ederwms">
@@ -8,7 +8,7 @@ My name is Éder Sousa and I'm a software developer. I'm from Brazil and current
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederwms&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### My Development Stack:
+### Minha stack de desenvolvimento:
 
 <div align="start" style="display: inline_block"><br>
   <img align="center" alt="VueJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
@@ -20,7 +20,7 @@ My name is Éder Sousa and I'm a software developer. I'm from Brazil and current
   <img align="center" alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mongodb/mongodb-original.svg">
 </div>
 
-### Currently studying
+### Atualmente estudando:
 <div align="start" style="display: inline_block"><br>
   <img align="center" alt="ReactJS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Jest" height="60" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jest/jest-plain.svg">
